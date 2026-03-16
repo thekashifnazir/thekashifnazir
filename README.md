@@ -4,10 +4,6 @@
 
 **Senior Technical Architect** · Cloud & AI Strategy · Multi-Cloud Platforms
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashifnazir/)
-[![Website](https://img.shields.io/badge/kashifnazir.com-2B2B2B?style=flat-square&logo=hugo&logoColor=white)](https://kashifnazir.com)
-[![Email](https://img.shields.io/badge/contact@kashifnazir.com-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:contact@kashifnazir.com)
-
 </div>
 
 ---
