@@ -18,7 +18,8 @@ A major interest at the moment is verification and knowing whether a model's out
 
 ### 🏆 Recent
 
-**Dwelly’s London AI Hackathon (AI Transformation of Services), Oct 2026** · My team, GingerbreadKing, won Best Voice Agent and Best Exception Handling. I designed and built the voice line (code AI-assisted) and ran the Reality Test on the frozen code. [greatagent](https://github.com/workonthestreets/greatagent)
+**Won Best Voice Agent and Best Exception Handling** at Dwelly’s London AI Hackathon (AI Transformation of Services), Oct 2026, with my five-person team GingerbreadKing.
+I designed and built the voice agent solo. [greatagent](https://github.com/workonthestreets/greatagent)
 
 ---
 
@@ -68,7 +69,9 @@ A major interest at the moment is verification and knowing whether a model's out
 
 ### Featured Projects
 
-🚚 [**greatagent**](https://github.com/workonthestreets/greatagent) · A delivery-desk agent that works out who controls each decision and takes one safe next step, checked by an independent Claude reviewer. Team build; my part was the ElevenLabs voice line (code AI-assisted): hazards go to the 999 line first and it never promises money or a date. 🏆 Best Voice Agent · Best Exception Handling
+🚚 [**greatagent**](https://github.com/workonthestreets/greatagent) · A delivery-desk agent built by a team of five that works out who controls each decision and takes one safe next step. I designed and built the ElevenLabs voice agent solo. 🏆 **Team won Best Voice Agent and Best Exception Handling**
+
+🚨 [**Outage Desk**](https://github.com/thekashifnazir/outage-desk) · Turns the evidence from a cloud outage into a ledger of claims labelled by certainty, then drafts board, engineering and customer updates where every sentence cites its claim. GPT-6 Astra reasons, plain code decides what can be said. Built solo at the GPT-6 Astra Hackathon London, Oct 2026. [Live](https://outage-desk.kashifnazir.com)
 
 🏋️ [**Moveset**](https://moveset.kashifnazir.com) · A training log with a web app, a CLI and a custom MCP server over one dataset. Two Cloudflare Workers, shared D1, WorkOS auth
 
