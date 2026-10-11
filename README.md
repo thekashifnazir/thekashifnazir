@@ -16,6 +16,12 @@ A major interest at the moment is verification and knowing whether a model's out
 
 ---
 
+### 🏆 Recent
+
+**Dwelly’s London AI Hackathon (AI Transformation of Services), Oct 2026** · My team, GingerbreadKing, won Best Voice Agent and Best Exception Handling. I designed and built the voice line (code AI-assisted) and ran the Reality Test on the frozen code. [greatagent](https://github.com/workonthestreets/greatagent)
+
+---
+
 ### Currently Working On
 
 - 🏋️ **Moveset** · A training log reachable three ways from one dataset: a React web app, a CLI, and a custom MCP server that writes structured sessions straight into it
@@ -61,6 +67,8 @@ A major interest at the moment is verification and knowing whether a model's out
 ---
 
 ### Featured Projects
+
+🚚 [**greatagent**](https://github.com/workonthestreets/greatagent) · A delivery-desk agent that works out who controls each decision and takes one safe next step, checked by an independent Claude reviewer. Team build; my part was the ElevenLabs voice line (code AI-assisted): hazards go to the 999 line first and it never promises money or a date. 🏆 Best Voice Agent · Best Exception Handling
 
 🏋️ [**Moveset**](https://moveset.kashifnazir.com) · A training log with a web app, a CLI and a custom MCP server over one dataset. Two Cloudflare Workers, shared D1, WorkOS auth
 
